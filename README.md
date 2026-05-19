@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Anuj.
 
-<!--
-**anujarora8/anujarora8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI GTM advisor. Founder of [AI Leverage](https://aileverage.group) — senior advisory for enterprise software companies becoming AI companies.
 
-Here are some ideas to get you started:
+Previously Chief Customer Officer at [Ada](https://ada.cx). 7 years, $1B+ valuation, 50x revenue. Before that, management consultant at Accenture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I think in systems and frameworks. I work best with teams serious about getting AI right, not just getting it shipped.
+
+### What I'm building
+
+- **[Jevy](https://getjevy.com/prototype)** — human feedback infrastructure for AI agents
+- **[AI Leverage](https://aileverage.group)** — GTM advisory for the agentic AI shift
+
+### Elsewhere
+
+- [Site](https://anujarora8.github.io)
+- [LinkedIn](https://linkedin.com/in/anujarora95)
+- [Goodreads](https://goodreads.com/anujarora)
