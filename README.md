@@ -2,14 +2,7 @@
 
 AI GTM advisor. Founder of [AI Leverage](https://aileverage.group) — senior advisory for enterprise software companies becoming AI companies.
 
-Previously Chief Customer Officer at [Ada](https://ada.cx). 7 years, $1B+ valuation, 50x revenue. Before that, management consultant at Accenture.
-
 I think in systems and frameworks. I work with teams who care more about getting AI right than getting AI shipped.
-
-### What I'm building
-
-- **[Jevy](https://getjevy.com/prototype)** — human feedback infrastructure for AI agents
-- **[AI Leverage](https://aileverage.group)** — GTM advisory for the agentic AI shift
 
 ### Elsewhere
 
